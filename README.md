@@ -1,74 +1,53 @@
-**Privacy Policy**
+Privacy Policy
 
-This privacy policy applies to the vehicle_trackkers app (hereby referred to as "Application") for mobile devices that was created by Erinson Villarroel (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This Privacy Policy applies to the Alterga HSEQ mobile application (the “Application”), provided by Alterga SA (the “Service Provider”) as a corporate service for internal HSEQ operations. The Application is provided “AS IS”.
 
-**Information Collection and Use**
+Information Collection and Use
+The Application collects information when you download and use it. This may include:
 
-The Application collects information when you download and use it. This information may include information such as
+Your device’s Internet Protocol (IP) address
+Pages/screens of the Application you visit, and the time/date of your visit
+Time spent on the Application
+Your mobile device operating system
+The Application does not collect precise location by default.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+If location services are enabled, the Application may collect approximate location data to:
 
-The Application does not gather precise information about the location of your mobile device.
+Support operational workflow (e.g., site-related inspections)
+Improve app performance and reliability (aggregated, anonymized)
+The Service Provider may use the information you provide to contact you with service-related notices (e.g., inspection status, NCR workflow updates, or security alerts).
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Third-Party Services
+The Application uses third‑party services that have their own privacy policies. These include:
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Google Analytics for Firebase
+The Service Provider may share User Provided and Automatically Collected Information:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+as required by law, such as to comply with a subpoena or legal process;
+when disclosure is necessary to protect rights, safety, prevent fraud, or respond to government requests;
+with trusted service providers who process data on behalf of Alterga SA and are obligated to protect it.
+Opt‑Out Rights
+You can stop all collection of information by uninstalling the Application through your mobile device or application marketplace.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+Data Retention Policy
+Alterga SA will retain User Provided data as long as the Application is in use and for a reasonable time thereafter.
+If you want your data deleted, please contact: rzeszow@alterga.com
 
-**Third Party Access**
+Children
+The Application is not intended for individuals under the age of 13. Alterga SA does not knowingly collect personal data from children under 13. If such data is discovered, it will be deleted immediately.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Security
+Alterga SA takes reasonable physical, electronic, and procedural measures to safeguard data.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Changes
+This Privacy Policy may be updated from time to time. Updates will be published on this page. Continued use of the Application implies acceptance of changes.
 
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+Effective Date
+This Privacy Policy is effective as of 2025‑10‑28.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Your Consent
+By using the Application, you consent to the processing of your information as described in this Privacy Policy.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at erinsonvillarroel@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (erinsonvillarroel@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-10-28
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at erinsonvillarroel@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Contact Us
+For questions about privacy or data processing, contact:
+rzeszow@alterga.com
